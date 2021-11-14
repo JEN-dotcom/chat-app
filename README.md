@@ -20,4 +20,4 @@ Login as another user to test various functionalities
 
 ### Snapshot
 
-![](https://github.com/JEN-dotcom/chat-app/blob/master/Preview.PNG?raw=true)
+![](https://github.com/JEN-dotcom/chat-app/blob/main/Preview.PNG?raw=true)
